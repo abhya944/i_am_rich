@@ -1,6 +1,8 @@
 # i_am_rich
 
 A new Flutter project.
+Exercise given by -London App Brewery and Angela Yu
+#Linkedin Learning
 
 ## Getting Started
 
